@@ -1,5 +1,5 @@
-Unix & Git for Everyone (Portland, August 22, 2015)
---------------------------------------------------
+Unix & Git for Everyone
+-----------------------
 
 ### Pre-work
 
@@ -77,3 +77,18 @@ git commit -m '<message>' Commits the staging area to the repository with a <mes
 ##### 12. Push the branch to the `origin` remote on GitHub
 
 ##### 13. Send a pull request from this branch to Code Fellows' `master` branch
+
+
+FEEDBACK
+
+1. On a scale of 1-10 = 10
+
+2. I enjoyed how the workshop was organized in a way that it taught me the basics of the terminal first, and then introduced git.
+As we went through each step, the "pieces of the puzzle" all began to come together. This kept it interesting and made learning
+the concepts much easier for myself.
+
+3. Honestly, I think Beth/you did a wonderful job teaching the course. She is a extremely intelligent and obviously knows
+a great deal about git/unix. She did a fantastic job with not only speaking and presenting this information to the class, but teaching
+it in a way that made sense to everybody! I can't think of anything I would recommend changing.
+
+
